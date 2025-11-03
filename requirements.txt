@@ -1,0 +1,6 @@
+Flask==2.2.5
+Werkzeug==2.3.7
+requests==2.31.0
+beautifulsoup4==4.12.2
+phonenumbers==8.13.13
+python-dotenv==1.0.0
